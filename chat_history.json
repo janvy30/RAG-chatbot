@@ -1,0 +1,12 @@
+{
+  "583a6795-d10e-482c-a5d7-be19542575d4": [
+    {
+      "role": "user",
+      "content": "Hello"
+    },
+    {
+      "role": "assistant",
+      "content": "\ud83d\udc4b Hey! Glad to see you here. What would you like to ask me today?"
+    }
+  ]
+}

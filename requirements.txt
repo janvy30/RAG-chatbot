@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+chromadb
+pydantic
+python-dotenv
+google-genai
+numpy
+pypdf
+python-multipart
+starlette
